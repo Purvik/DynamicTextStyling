@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'DPH Test Style Demo'),
+      home: const MyHomePage(title: 'Test Style Demo'),
     );
   }
 }

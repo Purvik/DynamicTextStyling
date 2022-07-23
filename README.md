@@ -1,4 +1,4 @@
-# dph_poem_text
+# Flutter Dynamic Text Styling 
 
 A new Flutter project.
 
